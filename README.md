@@ -10,6 +10,16 @@ I'm Neo Colebunders, a passionate computer science student.
 - SQL
 
 
+**Frameworks & Tools**
+- React
+- Express
+- Prisma
+- Node
+- Spring Boot
+- RabbitMq
+- PostgresSQL
+
+
 **Currently learning**
 - Go
 
