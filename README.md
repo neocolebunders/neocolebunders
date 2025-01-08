@@ -4,7 +4,7 @@ I'm Neo, a passionate computer science student.
 
 
 **Languages**
-- TypeScript
+- TypeScript / JavaScript
 - Java
 - Python
 - SQL
