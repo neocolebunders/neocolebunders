@@ -18,8 +18,3 @@ I'm Neo, a passionate computer science student.
 - Spring Boot
 - RabbitMq
 - PostgresSQL
-
-
-**Currently learning**
-- Go
-
