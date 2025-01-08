@@ -9,3 +9,7 @@ I'm Neo Colebunders, a passionate computer science student.
 - Python
 - SQL
 
+**Goals 2025**
+- Code everyday
+- Learn Go
+
