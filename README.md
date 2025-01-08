@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-I'm Neo Colebunders, a passionate computer science student.
+I'm Neo, a passionate computer science student.
 
 
 **Languages**
