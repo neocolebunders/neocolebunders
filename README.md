@@ -4,7 +4,7 @@ I'm Neo, a passionate computer science student.
 
 
 **Languages**
-- **TypeScript / JavaScript**  (React, Express, Node, Next, tRPC)
+- **TypeScript / JavaScript**  (React, Express, Node, Next, Prisma, tRPC)
 - **Java**  (Spring, RabbitMq)
 - **SQL**  (PostgresSQL)
 - **Python**
