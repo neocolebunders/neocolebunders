@@ -1,6 +1,6 @@
 # Hello, there 👋
 
-I'm Neo, a passionate computer science student.
+I'm Neo, a passionate computer science student interested in meaningful things.
 
 
 **Languages**
