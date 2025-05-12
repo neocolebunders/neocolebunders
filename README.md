@@ -1,4 +1,4 @@
-# Hi, there 👋
+# Hello, there 👋
 
 I'm Neo, a passionate computer science student.
 
