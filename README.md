@@ -10,3 +10,5 @@ I'm Neo, a passionate software engineer interested in building meaningful softwa
 - **Python**
 - **Go**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neocolebunders)](https://github.com/anuraghazra/github-readme-stats)
+
