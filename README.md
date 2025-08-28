@@ -1,6 +1,6 @@
 # Hello, there 👋
 
-I'm Neo, a passionate software engineer interested in meaningful things.
+I'm Neo, a passionate software engineer interested in building meaningful software ^^.
 
 
 **Languages, Framework and Libraries**
