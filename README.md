@@ -10,5 +10,4 @@ I'm Neo, a passionate software engineer interested in building meaningful softwa
 - **Python**
 - **Go**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neocolebunders)](https://github.com/anuraghazra/github-readme-stats)
 
