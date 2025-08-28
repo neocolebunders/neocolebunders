@@ -8,4 +8,5 @@ I'm Neo, a passionate software engineer interested in meaningful things.
 - **Java**  (Spring, RabbitMq)
 - **SQL**  (PostgreSQL)
 - **Python**
+- **Go**
 
